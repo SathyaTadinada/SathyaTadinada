@@ -3,7 +3,7 @@
   - Computer programming
   - Chess
   - Reading
-- 🌱 I’m currently learning
+- 🌱 I’m currently learning:
   - Java
   - Python
 - 📫 How to reach me:
