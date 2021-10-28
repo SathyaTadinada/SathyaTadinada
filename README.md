@@ -1,12 +1,16 @@
-- 👋 Hi, I’m @SathyaTadinada
-- 👀 I’m interested in:
+# Hi, I’m Sathya Tadinada!
+
+## 👀 I’m interested in:
   - Computer programming
   - Chess
   - Reading
-- 🌱 I’m currently learning:
+## 🌱 I’m currently learning:
   - Java
   - Python
-- 📫 How to reach me:
+  - HTML
+  - mySQL
+  - Swift
+## 📫 How to reach me:
   - sathyav.tadinada@gmail.com
   - (385) 246-3395
 
