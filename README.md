@@ -11,8 +11,8 @@
   - mySQL
   - Swift
 ## 📫 How to reach me:
-  - sathyav.tadinada@gmail.com
-  - (385) 246-3395
+  - [sathyav.tadinada@gmail.com](mailto:sathyav.tadinada@gmail.com)
+  - [(385) 246-3395](tel:3852463395)
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=SathyaTadinada&theme=darcula)
 <!---
