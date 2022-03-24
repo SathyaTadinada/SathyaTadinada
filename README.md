@@ -9,7 +9,6 @@
   - Python
   - HTML
   - mySQL
-  - Swift
 ## 📫 How to reach me:
   - sathyav.tadinada@gmail.com
   - (385) 246-3395
