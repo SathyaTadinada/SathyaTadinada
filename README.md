@@ -1,36 +1,57 @@
-# Hi 👋, I'm Sathya Tadinada!
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sathya Tadinada
+=======================================================================================================================================
 
-## 👀 I’m interested in:
-  - Computer programming
-  - Chess
-  - Reading
-## 🌱 I’m currently learning:
-  - Scala
-  - Javascript
-  - Arduino
-## 📫 How to reach me:
-  - sathyav.tadinada@gmail.com
-  - (385) 246-3395
+Student at the University of Utah
+---------------------------------
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=SathyaTadinada&theme=tokyonight)
+Insert a Long Description here.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaTadinada&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+* 🌍  I'm based in Salt Lake City, Utah
+* 🖥️  See my portfolio at [MyPortfolio](http://myportfolio.com)
+* ✉️  You can contact me at [sathyav.tadinada@gmail.com](mailto:sathyav.tadinada@gmail.com)
+* 🚀  I'm currently working on [MyApp](http://myapp.com)
+* 🧠  I'm learning Scala, Javascript, and Flutter
+* 🤝  I'm open to collaborating on full-stack developer projects
+* ⚡  Anything Else: I'm secretly Spider-Man
 
+<a href="https://www.twitter.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/SathyaTadinada?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
+/></a><a href="https://www.github.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SathyaTadinada?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a><a href="https://www.twitch.tv/sathyatadinada" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitch/status/sathyatadinada?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=181824&label=TWITCH+STATUS" /></a>
 
-
-
-
-
-
-
+### Skills
 
 
+<p align="left">
+<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
+<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/kotlin-colored.svg" width="36" height="36" alt="Kotlin" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a>
+<a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a>
+<a href="adobe.com/uk/products/illustrator.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/illustrator-colored.svg" width="36" height="36" alt="Illustrator" /></a>
+<a href="https://www.adobe.com/uk/products/aftereffects.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aftereffects-colored.svg" width="36" height="36" alt="After Effects" /></a>
+<a href="https://www.adobe.com/uk/products/premiere.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/premierepro-colored.svg" width="36" height="36" alt="Premiere Pro" /></a>
+<a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored.svg" width="36" height="36" alt="XD" /></a>
+</p>
 
 
+### Socials
 
+<p align="left"> <a href="https://www.dev.to/sathyatadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://discord.com/users/444895960577998860" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/sathya.tadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/SathyaTadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/sathya.tadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/sathya-tadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="http://www.medium.com/sathyatadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/17215273/sathya-tadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/SathyaTadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> <a href="https://www.youtube.com/@sathyatadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a> <a href="https://www.twitch.tv/sathyatadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitch.svg" width="32" height="32" /></a></p>
 
+### Badges
 
-<!---
-SathyaTadinada/SathyaTadinada is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/SathyaTadinada"><img src="https://github-readme-stats.vercel.app/api?username=SathyaTadinada&show_icons=true&hide=&count_private=true&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&show_icons=true" alt="SathyaTadinada's GitHub stats" /></a>
+
+<a href="http://www.github.com/SathyaTadinada"><img src="https://github-readme-streak-stats.herokuapp.com/?user=SathyaTadinada&stroke=14b8a6&background=181824&ring=6366f1&fire=6366f1&currStreakNum=14b8a6&currStreakLabel=6366f1&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+
+<a href="https://github.com/SathyaTadinada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaTadinada&langs_count=10&title_color=6366f1&text_color=14b8a6&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/sathyatadinada"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
