@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Student at the University of Utah
 ---------------------------------
 
-Insert a Long Description here.
+*Insert a Long Description here.*
 
 * 🌍  I'm based in Salt Lake City, Utah
 * 🖥️  See my portfolio at [MyPortfolio](http://myportfolio.com)
@@ -12,7 +12,7 @@ Insert a Long Description here.
 * 🚀  I'm currently working on [MyApp](http://myapp.com)
 * 🧠  I'm learning Scala, Javascript, and Flutter
 * 🤝  I'm open to collaborating on full-stack developer projects
-* ⚡  Anything Else: I'm secretly Spider-Man
+* ⚡  Anything Else: *insert cool fact here*
 
 <a href="https://www.twitter.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SathyaTadinada?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
