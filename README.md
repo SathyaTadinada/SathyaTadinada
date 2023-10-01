@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Sathya Tadinada
+Hi! [](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Sathya Tadinada.
 =======================================================================================================================================
 
 Student at the University of Utah
@@ -7,20 +7,15 @@ Student at the University of Utah
 *Insert a Long Description here.*
 
 * 🌍  I'm based in Salt Lake City, Utah
-* 🖥️  See my portfolio at [MyPortfolio](http://myportfolio.com)
 * ✉️  You can contact me at [sathyav.tadinada@gmail.com](mailto:sathyav.tadinada@gmail.com)
-* 🚀  I'm currently working on [MyApp](http://myapp.com)
-* 🧠  I'm learning Scala, Javascript, and Flutter
+* 🧠  I'm currently learning Scala, Javascript, and Flutter
 * 🤝  I'm open to collaborating on full-stack developer projects
-* ⚡  Anything Else: *insert cool fact here*
 
 <a href="https://www.twitter.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/SathyaTadinada?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
 /></a>
 <a href="https://www.github.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/github/followers/SathyaTadinada?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
-<a href="https://www.twitch.tv/sathyatadinada" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitch/status/sathyatadinada?logo=twitchsx&style=for-the-badge&color=a855f7&labelColor=181824&label=TWITCH+STATUS" /></a>
 
 ### Skills
 
