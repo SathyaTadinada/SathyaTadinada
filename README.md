@@ -11,12 +11,6 @@ I'm a second-year student at the University of Utah, majoring in Computer Scienc
 * 🧠  Currently learning [Scala](https://www.scala-lang.org/), [Javascript](https://www.javascript.com/), and [Flutter](https://flutter.dev/)
 * 🤝  Open to collaborating on full-stack developer projects
 
-<a href="https://www.twitter.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/SathyaTadinada?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
-/></a>
-<a href="https://www.github.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/SathyaTadinada?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
-
 ### Skills
 
 
@@ -45,6 +39,12 @@ src="https://img.shields.io/github/followers/SathyaTadinada?logo=github&style=fo
   <a href="https://www.twitter.com/SathyaTadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a> 
   <a href="https://www.youtube.com/@sathyatadinada" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
 </p>
+
+<a href="https://www.twitter.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/SathyaTadinada?logo=twitter&style=for-the-badge&color=a855f7&labelColor=181824"
+/></a>
+<a href="https://www.github.com/SathyaTadinada" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/SathyaTadinada?logo=github&style=for-the-badge&color=a855f7&labelColor=181824" /></a>
 
 ### Badges
 
