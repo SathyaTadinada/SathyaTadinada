@@ -8,7 +8,7 @@ I'm a second-year student at the University of Utah, majoring in Computer Scienc
 
 * 🌍  Based in Salt Lake City, Utah
 * ✉️  Contact me at [sathyav.tadinada@gmail.com](mailto:sathyav.tadinada@gmail.com)
-* 🧠  Currently learning [Scala](https://www.scala-lang.org/), [Javascript](https://www.javascript.com/), and [Flutter](https://flutter.dev/)
+* 🧠  Currently learning [Rust](https://www.rust-lang.org/), [Javascript](https://www.javascript.com/), and [Flutter](https://flutter.dev/)
 * 🤝  Open to collaborating on full-stack developer projects
 <br>
 <p align="center">
