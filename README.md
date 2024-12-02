@@ -20,7 +20,8 @@ I'm a third-year student at the University of Utah, majoring in Computer Science
 <p align="center">
   <a href="http://www.github.com/SathyaTadinada"><img src="https://github-readme-stats.vercel.app/api?username=SathyaTadinada&theme=tokyonight&show_icons=true&hide_border=false&count_private=true" alt="SathyaTadinada's GitHub stats" /></a>
   <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=SathyaTadinada&theme=tokyonight&exclude_days=Sun%2CSat" alt="GitHub Streak"/></a>
+  <a href="https://github.com/SathyaTadinada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaTadinada&theme=tokyonight" alt="Top Languages" /></a>
 </p>
 <p align="center">
-  <a href="https://github.com/SathyaTadinada" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SathyaTadinada&theme=tokyonight" alt="Top Languages" /></a>
+  
 </p>
