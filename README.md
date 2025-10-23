@@ -4,7 +4,7 @@ Hi, I'm Sathya! 👋
 <!-- Student at the University of Utah
 --------------------------------- -->
 
-I'm a third-year student at the University of Utah, majoring in Computer Science and Applied Mathematics with a minor in Psychology. Eager to apply my knowledge in the field, I'm looking forward to gaining hands-on experience through internships and projects - as well as building a strong foundation in computer science concepts and programming languages. I am excited to contribute to the tech industry and make a positive impact through my work.
+I'm a fourth-year student at the University of Utah, majoring in Computer Science and Applied Mathematics with a minor in Psychology. Eager to apply my knowledge in the field, I'm looking forward to gaining hands-on experience through internships and projects - as well as building a strong foundation in computer science concepts and programming languages. I am excited to contribute to the tech industry and make a positive impact through my work.
 <br><br>
 <!-- ### Social Links:
 <p align="center">  -->
